@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T14:02:23.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" version="15.6.3" etag="_ZQnw1olebCNfdjqdyyY" type="github"><diagram id="KJQ_AWa8l4w9tSERXjJN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-01T14:05:45.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="NDTOsRdWy6X7DYnKl0oG" version="15.6.3" type="github">
+  <diagram id="KJQ_AWa8l4w9tSERXjJN" name="Page-1">
+    <mxGraphModel dx="942" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fsH_G0In-MBlYthfAQ0J-1" value="解析器入口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsH_G0In-MBlYthfAQ0J-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsH_G0In-MBlYthfAQ0J-3" value="解析魔数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fsH_G0In-MBlYthfAQ0J-4" value="解析版本号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fsH_G0In-MBlYthfAQ0J-7" value="解析常量池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fsH_G0In-MBlYthfAQ0J-9" value="解析访问标志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
