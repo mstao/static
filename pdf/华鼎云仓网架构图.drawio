@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-11T07:11:14.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="6u5G3bbnKebg83Qsrx6L" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-11T07:13:37.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="a9MzRBmifw6ZiO5STHot" version="15.9.4" type="github">
   <diagram id="0WlvMbETFTRI-HPRhYiD" name="Page-1">
     <mxGraphModel dx="1769" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,6 +184,18 @@
         </mxCell>
         <mxCell id="SmQ9b6Evit55e1KI1vsO-98" value="注册与发现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="750" y="600" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SmQ9b6Evit55e1KI1vsO-99" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;labelBackgroundColor=#;sketch=0;fontSize=16;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="895" y="680" width="195" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SmQ9b6Evit55e1KI1vsO-101" value="分布式任务调度中心 XxlJob 集群" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=#;sketch=0;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="920" y="620" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SmQ9b6Evit55e1KI1vsO-102" value="172.26.122.213" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;labelBackgroundColor=#;sketch=0;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="933" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SmQ9b6Evit55e1KI1vsO-103" value="172.26.122.214" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;labelBackgroundColor=#;sketch=0;fontSize=16;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="933" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
