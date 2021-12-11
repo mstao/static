@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-11T07:47:37.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="b0Apavyo-Tk2kY4v0ECx" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-11T07:48:00.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="_uYfhJ_oJ5sdWVL2PfSu" version="15.9.4" type="github">
   <diagram id="0WlvMbETFTRI-HPRhYiD" name="Page-1">
     <mxGraphModel dx="1769" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="SmQ9b6Evit55e1KI1vsO-8" value="网关层" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-40" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SmQ9b6Evit55e1KI1vsO-9" value="Nginx&lt;br&gt;172.26.122.213" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="SmQ9b6Evit55e1KI1vsO-9" value="外部Nginx&lt;br&gt;172.26.122.213" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="195" y="265" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SmQ9b6Evit55e1KI1vsO-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.828;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;startArrow=classic;startFill=1;" edge="1" parent="1" source="SmQ9b6Evit55e1KI1vsO-10" target="SmQ9b6Evit55e1KI1vsO-81">
@@ -57,7 +57,7 @@
         <mxCell id="SmQ9b6Evit55e1KI1vsO-10" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="540" y="255" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="SmQ9b6Evit55e1KI1vsO-12" value="Nginx&lt;br&gt;172.26.122.214" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="SmQ9b6Evit55e1KI1vsO-12" value="外部Nginx&lt;br&gt;172.26.122.214" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="545" y="265" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SmQ9b6Evit55e1KI1vsO-19" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
