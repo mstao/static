@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T09:23:47.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="LPUqs181abPciZuP_ysB" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T09:26:02.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="jU-OX4MXOlCHSfbRlvCD" version="15.9.4" type="github">
   <diagram id="jUNo7Q9Imrn9tqrWgwNH" name="Page-1">
-    <mxGraphModel dx="942" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,8 +18,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="um_cftkv1SnKHvXDUPxB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="um_cftkv1SnKHvXDUPxB-4" target="um_cftkv1SnKHvXDUPxB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="um_cftkv1SnKHvXDUPxB-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;接收出库订单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="130" y="210" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="um_cftkv1SnKHvXDUPxB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="um_cftkv1SnKHvXDUPxB-6" target="um_cftkv1SnKHvXDUPxB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="um_cftkv1SnKHvXDUPxB-6" value="&lt;font style=&quot;font-size: 20px&quot;&gt;订单组合&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="210" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="um_cftkv1SnKHvXDUPxB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="um_cftkv1SnKHvXDUPxB-9" target="um_cftkv1SnKHvXDUPxB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="um_cftkv1SnKHvXDUPxB-9" value="&lt;font style=&quot;font-size: 20px&quot;&gt;库存分配&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="615" y="210" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="um_cftkv1SnKHvXDUPxB-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;释放&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="615" y="360" width="162.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
