@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T08:01:31.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="8-v_j1xgV2JOyaG0JwlK" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T08:02:21.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="HpOH2kS-fZzcX5AKocEm" version="15.0.3" type="github">
   <diagram id="jUNo7Q9Imrn9tqrWgwNH" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,6 +168,14 @@
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-45" value="提交拣货数据，&amp;nbsp; 减库存" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1130" y="510" width="162.5" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.053;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="K3RD2K_L6G9fTyEeQvmx-48" target="K3RD2K_L6G9fTyEeQvmx-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1265" />
+              <mxPoint x="80" y="1711" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-48" value="更新拣货数据，（店仓模式回写OMS）" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="130" y="1230" width="162.5" height="70" as="geometry" />
         </mxCell>
@@ -257,6 +265,9 @@
         </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-80" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="168.75" y="1775" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-83" value="店仓模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1455" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
