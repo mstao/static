@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T07:51:34.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="VeMIYS9wg0AN1_x_jqDD" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T07:52:07.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="tMQaQOswAGUkI8TQzZ0H" version="15.0.3" type="github">
   <diagram id="jUNo7Q9Imrn9tqrWgwNH" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,11 +149,19 @@
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-43" value="展示详细的拣货信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1130" y="360" width="162.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="K3RD2K_L6G9fTyEeQvmx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K3RD2K_L6G9fTyEeQvmx-45" target="K3RD2K_L6G9fTyEeQvmx-48">
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="K3RD2K_L6G9fTyEeQvmx-45" target="K3RD2K_L6G9fTyEeQvmx-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1211.25" y="1050" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1211" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="1" source="K3RD2K_L6G9fTyEeQvmx-45" target="K3RD2K_L6G9fTyEeQvmx-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="545" />
+              <mxPoint x="1350" y="238" />
             </Array>
           </mxGeometry>
         </mxCell>
