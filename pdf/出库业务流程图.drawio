@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T07:42:03.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="ZO1yinrja0D7YDGuAY3C" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T07:43:08.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="9FkxxYnQZiouICTHBOx9" version="15.0.3" type="github">
   <diagram id="jUNo7Q9Imrn9tqrWgwNH" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,30 +91,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-24" value="生成下架任务" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="870" y="210" width="162.5" height="70" as="geometry" />
+          <mxGeometry x="880" y="210" width="162.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K3RD2K_L6G9fTyEeQvmx-25" target="K3RD2K_L6G9fTyEeQvmx-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-28" value="手工释放" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K3RD2K_L6G9fTyEeQvmx-27">
           <mxGeometry x="-0.1177" relative="1" as="geometry">
-            <mxPoint x="24" y="-22" as="offset" />
+            <mxPoint x="29" y="47" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-25" value="分配完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="640" y="1110" width="162.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-29" value="&lt;font style=&quot;font-size: 17px&quot;&gt;任务释放&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="908.75" y="120" width="85" height="30" as="geometry" />
+          <mxGeometry x="918.75" y="120" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3RD2K_L6G9fTyEeQvmx-30" target="K3RD2K_L6G9fTyEeQvmx-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-30" value="生成拣货单" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="870" y="360" width="162.5" height="70" as="geometry" />
+          <mxGeometry x="880" y="360" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K3RD2K_L6G9fTyEeQvmx-33" target="K3RD2K_L6G9fTyEeQvmx-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-33" value="释放库存分配数量" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="870" y="510" width="162.5" height="70" as="geometry" />
+          <mxGeometry x="880" y="510" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-35" value="&lt;font style=&quot;font-size: 17px&quot;&gt;拣货&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="120" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-36" value="释放完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="880" y="660" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-38" value="MQ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="370" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
