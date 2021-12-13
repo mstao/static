@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T07:50:08.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="m-El-xCbWnHIij9AfgzH" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T07:51:20.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="3GyvSaJwLRBz-oJHvx6H" version="15.0.3" type="github">
   <diagram id="jUNo7Q9Imrn9tqrWgwNH" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,6 +177,21 @@
         </mxCell>
         <mxCell id="K3RD2K_L6G9fTyEeQvmx-53" value="&lt;span style=&quot;font-size: 17px&quot;&gt;发货&lt;/span&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1650" y="120" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="K3RD2K_L6G9fTyEeQvmx-54" target="K3RD2K_L6G9fTyEeQvmx-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-54" value="获取集货区数据" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1411.25" y="210" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="K3RD2K_L6G9fTyEeQvmx-55" target="K3RD2K_L6G9fTyEeQvmx-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-55" value="填写集货位" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1411.25" y="360" width="162.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K3RD2K_L6G9fTyEeQvmx-57" value="提交集货信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1411.25" y="510" width="162.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
